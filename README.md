@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ntg for now.
 - 📫 How to reach me? ping me on my linked in!
 - 😄 Pronouns:she/her
-- ⚡ Fun fact: im 17!
+- ⚡ Fun fact: im 17! and i'm a second year student at NIAT!
+- checkout my deployed begginer friendly projects in my repos!
+
 
 <!---
 PujithaNavyaSai/PujithaNavyaSai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
